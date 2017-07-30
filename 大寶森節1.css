@@ -1,0 +1,42 @@
+body{
+    font-family: "微軟正黑體";
+}
+#wrapper{
+    max-width: 350px;
+    padding-top: 10px;
+    margin:0 auto;
+}
+
+p{
+    font-size: 15px;
+    color:#666666;
+}
+
+h1{
+    color:#FF5145;
+}
+
+#small_icon{
+    font-size: 3rem;
+    color:white;
+}
+
+.pic:hover {
+            opacity: .5;
+            -moz-opacity: .5;
+            filter: alpha(opacity=50);
+        }
+
+footer{
+    background-color: #FF5145;
+    padding-left: 170px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#icon{
+    padding-left: 60px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
